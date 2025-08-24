@@ -21,8 +21,8 @@ Busco sempre aprender novas linguagens, desenvolver projetos e compartilhar conh
 
 ### 🌸 Minhas Skills em Construção 🌸
 
-| HTML5 | CSS3 | JavaScript | Python | MySQL | Node.js | Express | Postman | React |
-|:-----:|:----:|:----------:|:------:|:-----:|:-------:|:-------:|:-------:|:-----:|
+
+
 | ![HTML5](https://img.shields.io/badge/HTML5-FFC0CB?style=for-the-badge&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-FF69B4?style=for-the-badge&logo=css3&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-FFC0CB?style=for-the-badge&logo=javascript&logoColor=white) | ![Python](https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-FFC0CB?style=for-the-badge&logo=mysql&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-FF69B4?style=for-the-badge&logo=node.js&logoColor=white) | ![Express](https://img.shields.io/badge/Express-FFC0CB?style=for-the-badge&logo=express&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF69B4?style=for-the-badge&logo=postman&logoColor=white) | ![React](https://img.shields.io/badge/React-FFC0CB?style=for-the-badge&logo=react&logoColor=white) |
 
 ---
