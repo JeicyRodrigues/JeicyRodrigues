@@ -17,15 +17,25 @@ Busco sempre aprender novas linguagens, desenvolver projetos e compartilhar conh
 
 ---
 
+
 ## 🐼 Tecnologias que estou aprendendo
 
-### 🌸 Minhas Skills em Construção 🌸
+<div align="center">
 
+### 🌸 Minhas Skills em Construção
 
+<img src="https://img.shields.io/badge/HTML5-FFC0CB?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-FF69B4?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-FFC0CB?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/MySQL-FFC0CB?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Node.js-FF69B4?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-FFC0CB?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+<img src="https://img.shields.io/badge/Postman-FF69B4?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+<img src="https://img.shields.io/badge/React-FFC0CB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
 
-| ![HTML5](https://img.shields.io/badge/HTML5-FFC0CB?style=for-the-badge&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-FF69B4?style=for-the-badge&logo=css3&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-FFC0CB?style=for-the-badge&logo=javascript&logoColor=white) | ![Python](https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-FFC0CB?style=for-the-badge&logo=mysql&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-FF69B4?style=for-the-badge&logo=node.js&logoColor=white) | ![Express](https://img.shields.io/badge/Express-FFC0CB?style=for-the-badge&logo=express&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF69B4?style=for-the-badge&logo=postman&logoColor=white) | ![React](https://img.shields.io/badge/React-FFC0CB?style=for-the-badge&logo=react&logoColor=white) |
+</div>
 
----
 
 ## 🌸📂 Meus Projetos 📂🌸
 
