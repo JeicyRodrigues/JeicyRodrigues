@@ -18,8 +18,6 @@ Busco sempre aprender novas linguagens, desenvolver projetos e compartilhar conh
 ---
 
 
-## 🐼 Tecnologias que estou aprendendo
-
 <div align="center">
 
 ### 🌸 Minhas Skills em Construção
@@ -36,14 +34,16 @@ Busco sempre aprender novas linguagens, desenvolver projetos e compartilhar conh
 
 </div>
 
-
-## 🌸📂 Meus Projetos 📂🌸
+<div align="center">
+  
+### 🌸📂 Meus Projetos 📂🌸
 
 <p align="center">
   <a href="https://github.com/JeicyRodrigues/projeto-planner.git"><img src="https://img.shields.io/badge/🐼%20Projeto%201-FFB6C1?style=for-the-badge"></a>
   <a href="https://github.com/JeicyRodrigues/projeto-planner.git"><img src="https://img.shields.io/badge/🌸%20Projeto%202-FF69B4?style=for-the-badge"></a>
   <a href="https://github.com/JeicyRodrigues/meuPortifolio.git"><img src="https://img.shields.io/badge/🐼%20Projeto%203-FFB6C1?style=for-the-badge"></a>
 </p>
+</div>
 
 ---
 
